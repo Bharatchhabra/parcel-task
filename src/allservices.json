@@ -1,0 +1,2271 @@
+[
+  {
+    "id": "all",
+    "icon": "pallet-boxes",
+    "title": "All",
+    "tabName": "All",
+    "price": "£4.19",
+    "count": 29,
+    "isAnyTodayCollection": true,
+    "shipmentDate": "15-09-2021",
+    "availableCarriers": [
+      {
+        "id": 48,
+        "title": "UPS",
+        "img": "ups"
+      },
+      {
+        "id": 81,
+        "title": "DPD",
+        "img": "dpd2"
+      },
+      {
+        "id": 28,
+        "title": "ParcelForce",
+        "img": "parcel-force"
+      },
+      {
+        "id": 25,
+        "title": "TNT",
+        "img": "tnt-operated"
+      },
+      {
+        "id": 11,
+        "title": "Hermes",
+        "img": "hermes"
+      }
+    ],
+    "collectionDate": "15-09-2021",
+    "filterDate": null,
+    "postcode": null,
+    "map": null,
+    "collectionPostcode": "",
+    "content": [
+      {
+        "title": "Next day",
+        "items": [
+          {
+            "serviceKeys": "588308~588307~588332",
+            "title": "UPS",
+            "deliver": "2021-09-16",
+            "logo": "ups",
+            "today": false,
+            "isNorsk": true,
+            "item": [
+              {
+                "carrierId": 48,
+                "carrierName": "UPS",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588308",
+                "price": "£9.87",
+                "today": false,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "tomorrow"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by UPS"
+              },
+              {
+                "carrierId": 48,
+                "carrierName": "UPS",
+                "isAccessPoint": true,
+                "serviceKey": "17939631",
+                "serialNo": "588307",
+                "price": "£10.13",
+                "taxPrice": "£12.16",
+                "today": false,
+                "drop": {
+                  "type": "drop by",
+                  "title": "Drop by",
+                  "text": "11am today"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by UPS"
+              },
+              {
+                "carrierId": 48,
+                "carrierName": "UPS",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588332",
+                "price": "£13.07",
+                "taxPrice": "£15.68",
+                "today": true,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "today"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by UPS"
+              },
+              {
+                "carrierId": 48,
+                "carrierName": "UPS",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588308",
+                "price": "£14.14",
+                "taxPrice": "£16.97",
+                "today": false,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "tomorrow"
+                },
+                "type": "no-printer",
+                "surcharges": "42",
+                "collectAndDeliveryBy": "Collected and delivered by UPS"
+              }
+            ]
+          },
+          {
+            "serviceKeys": "588309",
+            "title": "DPD",
+            "deliver": "2021-09-17",
+            "logo": "dpd2",
+            "today": false,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 81,
+                "carrierName": "DPD",
+                "isAccessPoint": true,
+                "serviceKey": "17939631",
+                "serialNo": "588309",
+                "price": "£10.96",
+                "taxPrice": "£13.15",
+                "today": false,
+                "drop": {
+                  "type": "drop ",
+                  "title": "Drop ",
+                  "text": "anytime today"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by DPD"
+              }
+            ]
+          },
+          {
+            "serviceKeys": "588323~588324",
+            "title": "ParcelForce",
+            "deliver": "2021-09-16",
+            "logo": "parcel-force",
+            "today": false,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 28,
+                "carrierName": "ParcelForce",
+                "isAccessPoint": true,
+                "serviceKey": "17939631",
+                "serialNo": "588323",
+                "price": "£13.06",
+                "taxPrice": "£15.67",
+                "today": false,
+                "drop": {
+                  "type": "drop by",
+                  "title": "Drop by",
+                  "text": "11am today"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by ParcelForce"
+              },
+              {
+                "carrierId": 28,
+                "carrierName": "ParcelForce",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588324",
+                "price": "£14.66",
+                "taxPrice": "£17.59",
+                "today": false,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "tomorrow"
+                },
+                "type": "no-printer",
+                "surcharges": "42",
+                "collectAndDeliveryBy": "Collected and delivered by ParcelForce"
+              }
+            ]
+          },
+          {
+            "serviceKeys": "588313",
+            "title": "TNT",
+            "deliver": "2021-09-16",
+            "logo": "tnt-operated",
+            "today": false,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 25,
+                "carrierName": "TNT",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588313",
+                "price": "£21.92",
+                "taxPrice": "£26.30",
+                "today": true,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "today"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by TNT"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2+ days",
+        "items": [
+          {
+            "serviceKeys": "588326~588325",
+            "title": "ParcelForce",
+            "deliver": "2021-09-17",
+            "logo": "parcel-force",
+            "today": false,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 28,
+                "carrierName": "ParcelForce",
+                "isAccessPoint": true,
+                "serviceKey": "17939631",
+                "serialNo": "588326",
+                "price": "£12.00",
+                "taxPrice": "£14.40",
+                "today": false,
+                "drop": {
+                  "type": "drop by",
+                  "title": "Drop by",
+                  "text": "11am today"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by ParcelForce"
+              },
+              {
+                "carrierId": 28,
+                "carrierName": "ParcelForce",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588325",
+                "price": "£13.60",
+                "taxPrice": "£16.32",
+                "today": false,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "tomorrow"
+                },
+                "type": "no-printer",
+                "surcharges": "42",
+                "collectAndDeliveryBy": "Collected and delivered by ParcelForce"
+              }
+            ]
+          },
+          {
+            "serviceKeys": "588314",
+            "title": "Hermes",
+            "deliver": "2021-09-20",
+            "logo": "hermes",
+            "today": false,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 11,
+                "carrierName": "Hermes",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588314",
+                "price": "£4.19",
+                "taxPrice": "£5.03",
+                "today": false,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "tomorrow"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by Hermes"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Timed delivery",
+        "items": [
+          {
+            "serviceKeys": "588322~588321",
+            "title": "ParcelForce",
+            "deliver": "2021-09-16T12:00",
+            "logo": "parcel-force",
+            "today": false,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 28,
+                "carrierName": "ParcelForce",
+                "isAccessPoint": true,
+                "serviceKey": "17939631",
+                "serialNo": "588322",
+                "price": "£13.49",
+                "taxPrice": "£16.19",
+                "today": false,
+                "drop": {
+                  "type": "drop by",
+                  "title": "Drop by",
+                  "text": "11am today"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by ParcelForce"
+              },
+              {
+                "carrierId": 28,
+                "carrierName": "ParcelForce",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588321",
+                "price": "£15.09",
+                "taxPrice": "£18.11",
+                "today": false,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "tomorrow"
+                },
+                "type": "no-printer",
+                "surcharges": "42",
+                "collectAndDeliveryBy": "Collected and delivered by ParcelForce"
+              }
+            ]
+          },
+          {
+            "serviceKeys": "588306~588331",
+            "title": "UPS",
+            "deliver": "2021-09-16T12:00",
+            "logo": "ups",
+            "today": true,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 48,
+                "carrierName": "UPS",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588306",
+                "price": "£17.63",
+                "taxPrice": "£21.16",
+                "today": false,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "tomorrow"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by UPS"
+              },
+              {
+                "carrierId": 48,
+                "carrierName": "UPS",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588331",
+                "price": "£20.83",
+                "taxPrice": "£25.00",
+                "today": true,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "today"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by UPS"
+              },
+              {
+                "carrierId": 48,
+                "carrierName": "UPS",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588306",
+                "price": "£21.90",
+                "taxPrice": "£26.28",
+                "today": false,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "tomorrow"
+                },
+                "type": "no-printer",
+                "surcharges": "42",
+                "collectAndDeliveryBy": "Collected and delivered by UPS"
+              }
+            ]
+          },
+          {
+            "serviceKeys": "588319~588320",
+            "title": "ParcelForce",
+            "deliver": "2021-09-16T10:00",
+            "logo": "parcel-force",
+            "today": false,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 28,
+                "carrierName": "ParcelForce",
+                "isAccessPoint": true,
+                "serviceKey": "17939631",
+                "serialNo": "588319",
+                "price": "£17.86",
+                "taxPrice": "£21.43",
+                "today": false,
+                "drop": {
+                  "type": "drop by",
+                  "title": "Drop by",
+                  "text": "11am today"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by ParcelForce"
+              },
+              {
+                "carrierId": 28,
+                "carrierName": "ParcelForce",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588320",
+                "price": "£19.46",
+                "taxPrice": "£23.35",
+                "today": false,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "tomorrow"
+                },
+                "type": "no-printer",
+                "surcharges": "42",
+                "collectAndDeliveryBy": "Collected and delivered by ParcelForce"
+              }
+            ]
+          },
+          {
+            "serviceKeys": "588305~588330",
+            "title": "UPS",
+            "deliver": "2021-09-16T10:30",
+            "logo": "ups",
+            "today": true,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 48,
+                "carrierName": "UPS",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588305",
+                "price": "£18.38",
+                "taxPrice": "£22.06",
+                "today": false,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "tomorrow"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by UPS"
+              },
+              {
+                "carrierId": 48,
+                "carrierName": "UPS",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588330",
+                "price": "£21.58",
+                "taxPrice": "£25.90",
+                "today": true,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "today"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by UPS"
+              },
+              {
+                "carrierId": 48,
+                "carrierName": "UPS",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588305",
+                "price": "£22.65",
+                "taxPrice": "£27.18",
+                "today": false,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "tomorrow"
+                },
+                "type": "no-printer",
+                "surcharges": "42",
+                "collectAndDeliveryBy": "Collected and delivered by UPS"
+              }
+            ]
+          },
+          {
+            "serviceKeys": "588318~588317",
+            "title": "ParcelForce",
+            "deliver": "2021-09-16T09:00",
+            "logo": "parcel-force",
+            "today": false,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 28,
+                "carrierName": "ParcelForce",
+                "isAccessPoint": true,
+                "serviceKey": "17939631",
+                "serialNo": "588318",
+                "price": "£24.26",
+                "taxPrice": "£29.11",
+                "today": false,
+                "drop": {
+                  "type": "drop by",
+                  "title": "Drop by",
+                  "text": "11am today"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by ParcelForce"
+              },
+              {
+                "carrierId": 28,
+                "carrierName": "ParcelForce",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588317",
+                "price": "£25.86",
+                "taxPrice": "£31.03",
+                "today": false,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "tomorrow"
+                },
+                "type": "no-printer",
+                "surcharges": "42",
+                "collectAndDeliveryBy": "Collected and delivered by ParcelForce"
+              }
+            ]
+          },
+          {
+            "serviceKeys": "588312",
+            "title": "TNT",
+            "deliver": "2021-09-16T12:00",
+            "logo": "tnt-operated",
+            "today": false,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 25,
+                "carrierName": "TNT",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588312",
+                "price": "£38.08",
+                "taxPrice": "£45.70",
+                "today": true,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "today"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by TNT"
+              }
+            ]
+          },
+          {
+            "serviceKeys": "588311",
+            "title": "TNT",
+            "deliver": "2021-09-16T10:00",
+            "logo": "tnt-operated",
+            "today": false,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 25,
+                "carrierName": "TNT",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588311",
+                "price": "£50.50",
+                "taxPrice": "£60.60",
+                "today": true,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "today"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by TNT"
+              }
+            ]
+          },
+          {
+            "serviceKeys": "588310",
+            "title": "TNT",
+            "deliver": "2021-09-16T09:00",
+            "logo": "tnt-operated",
+            "today": false,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 25,
+                "carrierName": "TNT",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588310",
+                "price": "£52.26",
+                "taxPrice": "£62.71",
+                "today": true,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "today"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by TNT"
+              }
+            ]
+          },
+          {
+            "serviceKeys": "588304~588329",
+            "title": "UPS",
+            "deliver": "2021-09-16T09:00",
+            "logo": "ups",
+            "today": true,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 48,
+                "carrierName": "UPS",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588304",
+                "price": "£63.81",
+                "taxPrice": "£76.57",
+                "today": false,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "tomorrow"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by UPS"
+              },
+              {
+                "carrierId": 48,
+                "carrierName": "UPS",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588329",
+                "price": "£67.01",
+                "taxPrice": "£80.41",
+                "today": true,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "today"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by UPS"
+              },
+              {
+                "carrierId": 48,
+                "carrierName": "UPS",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588304",
+                "price": "£68.08",
+                "taxPrice": "£81.70",
+                "today": false,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "tomorrow"
+                },
+                "type": "no-printer",
+                "surcharges": "42",
+                "collectAndDeliveryBy": "Collected and delivered by UPS"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "dropOffDistance": [],
+    "shipmentCover": 0,
+    "coverCharge": 0
+  },
+  {
+    "id": "collection",
+    "icon": "wagon",
+    "title": "Collection",
+    "tabName": "Collection",
+    "price": "£4.19",
+    "count": 22,
+    "isAnyTodayCollection": true,
+    "shipmentDate": "15-09-2021",
+    "availableCarriers": [
+      {
+        "id": 48,
+        "title": "UPS",
+        "img": "ups"
+      },
+      {
+        "id": 25,
+        "title": "TNT",
+        "img": "tnt-operated"
+      },
+      {
+        "id": 28,
+        "title": "ParcelForce",
+        "img": "parcel-force"
+      },
+      {
+        "id": 11,
+        "title": "Hermes",
+        "img": "hermes"
+      }
+    ],
+    "collectionDate": "15-09-2021",
+    "filterDate": true,
+    "postcode": null,
+    "map": null,
+    "collectionPostcode": "",
+    "content": [
+      {
+        "title": "Next day",
+        "items": [
+          {
+            "serviceKeys": "588308~588332",
+            "title": "UPS",
+            "deliver": "2021-09-16",
+            "logo": "ups",
+            "today": true,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 48,
+                "carrierName": "UPS",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588308",
+                "price": "£9.87",
+                "taxPrice": "£11.84",
+                "today": false,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "tomorrow"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by UPS"
+              },
+              {
+                "carrierId": 48,
+                "carrierName": "UPS",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588332",
+                "price": "£13.07",
+                "taxPrice": "£15.68",
+                "today": true,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "today"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by UPS"
+              },
+              {
+                "carrierId": 48,
+                "carrierName": "UPS",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588308",
+                "price": "£14.14",
+                "taxPrice": "£16.97",
+                "today": false,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "tomorrow"
+                },
+                "type": "no-printer",
+                "surcharges": "42",
+                "collectAndDeliveryBy": "Collected and delivered by UPS"
+              }
+            ]
+          },
+          {
+            "serviceKeys": "588306~588331",
+            "title": "UPS",
+            "deliver": "2021-09-16T12:00",
+            "logo": "ups",
+            "today": true,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 48,
+                "carrierName": "UPS",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588306",
+                "price": "£17.63",
+                "taxPrice": "£21.16",
+                "today": false,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "tomorrow"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by UPS"
+              },
+              {
+                "carrierId": 48,
+                "carrierName": "UPS",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588331",
+                "price": "£20.83",
+                "taxPrice": "£25.00",
+                "today": true,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "today"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by UPS"
+              },
+              {
+                "carrierId": 48,
+                "carrierName": "UPS",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588306",
+                "price": "£21.90",
+                "taxPrice": "£26.28",
+                "today": false,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "tomorrow"
+                },
+                "type": "no-printer",
+                "surcharges": "42",
+                "collectAndDeliveryBy": "Collected and delivered by UPS"
+              }
+            ]
+          },
+          {
+            "serviceKeys": "588305~588330",
+            "title": "UPS",
+            "deliver": "2021-09-16T10:30",
+            "logo": "ups",
+            "today": true,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 48,
+                "carrierName": "UPS",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588305",
+                "price": "£18.38",
+                "taxPrice": "£22.06",
+                "today": false,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "tomorrow"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by UPS"
+              },
+              {
+                "carrierId": 48,
+                "carrierName": "UPS",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588330",
+                "price": "£21.58",
+                "taxPrice": "£25.90",
+                "today": true,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "today"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by UPS"
+              },
+              {
+                "carrierId": 48,
+                "carrierName": "UPS",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588305",
+                "price": "£22.65",
+                "taxPrice": "£27.18",
+                "today": false,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "tomorrow"
+                },
+                "type": "no-printer",
+                "surcharges": "42",
+                "collectAndDeliveryBy": "Collected and delivered by UPS"
+              }
+            ]
+          },
+          {
+            "serviceKeys": "588313",
+            "title": "TNT",
+            "deliver": "2021-09-16",
+            "logo": "tnt-operated",
+            "today": false,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 25,
+                "carrierName": "TNT",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588313",
+                "price": "£21.92",
+                "taxPrice": "£26.30",
+                "today": true,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "today"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by TNT"
+              }
+            ]
+          },
+          {
+            "serviceKeys": "588312",
+            "title": "TNT",
+            "deliver": "2021-09-16T12:00",
+            "logo": "tnt-operated",
+            "today": false,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 25,
+                "carrierName": "TNT",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588312",
+                "price": "£38.08",
+                "taxPrice": "£45.70",
+                "today": true,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "today"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by TNT"
+              }
+            ]
+          },
+          {
+            "serviceKeys": "588311",
+            "title": "TNT",
+            "deliver": "2021-09-16T10:00",
+            "logo": "tnt-operated",
+            "today": false,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 25,
+                "carrierName": "TNT",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588311",
+                "price": "£50.50",
+                "taxPrice": "£60.60",
+                "today": true,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "today"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by TNT"
+              }
+            ]
+          },
+          {
+            "serviceKeys": "588310",
+            "title": "TNT",
+            "deliver": "2021-09-16T09:00",
+            "logo": "tnt-operated",
+            "today": false,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 25,
+                "carrierName": "TNT",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588310",
+                "price": "£52.26",
+                "taxPrice": "£62.71",
+                "today": true,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "today"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by TNT"
+              }
+            ]
+          },
+          {
+            "serviceKeys": "588304~588329",
+            "title": "UPS",
+            "deliver": "2021-09-16T09:00",
+            "logo": "ups",
+            "today": true,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 48,
+                "carrierName": "UPS",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588304",
+                "price": "£63.81",
+                "taxPrice": "£76.57",
+                "today": false,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "tomorrow"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by UPS"
+              },
+              {
+                "carrierId": 48,
+                "carrierName": "UPS",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588329",
+                "price": "£67.01",
+                "taxPrice": "£80.41",
+                "today": true,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "today"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by UPS"
+              },
+              {
+                "carrierId": 48,
+                "carrierName": "UPS",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588304",
+                "price": "£68.08",
+                "taxPrice": "£81.70",
+                "today": false,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "tomorrow"
+                },
+                "type": "no-printer",
+                "surcharges": "42",
+                "collectAndDeliveryBy": "Collected and delivered by UPS"
+              }
+            ]
+          },
+          {
+            "serviceKeys": "588324",
+            "title": "ParcelForce",
+            "deliver": "2021-09-17",
+            "logo": "parcel-force",
+            "today": false,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 28,
+                "carrierName": "ParcelForce",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588324",
+                "price": "£14.66",
+                "taxPrice": "£17.59",
+                "today": false,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "tomorrow"
+                },
+                "type": "no-printer",
+                "surcharges": "42",
+                "collectAndDeliveryBy": "Collected and delivered by ParcelForce"
+              }
+            ]
+          },
+          {
+            "serviceKeys": "588321",
+            "title": "ParcelForce",
+            "deliver": "2021-09-17T12:00",
+            "logo": "parcel-force",
+            "today": false,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 28,
+                "carrierName": "ParcelForce",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588321",
+                "price": "£15.09",
+                "taxPrice": "£18.11",
+                "today": false,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "tomorrow"
+                },
+                "type": "no-printer",
+                "surcharges": "42",
+                "collectAndDeliveryBy": "Collected and delivered by ParcelForce"
+              }
+            ]
+          },
+          {
+            "serviceKeys": "588320",
+            "title": "ParcelForce",
+            "deliver": "2021-09-17T10:00",
+            "logo": "parcel-force",
+            "today": false,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 28,
+                "carrierName": "ParcelForce",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588320",
+                "price": "£19.46",
+                "taxPrice": "£23.35",
+                "today": false,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "tomorrow"
+                },
+                "type": "no-printer",
+                "surcharges": "42",
+                "collectAndDeliveryBy": "Collected and delivered by ParcelForce"
+              }
+            ]
+          },
+          {
+            "serviceKeys": "588317",
+            "title": "ParcelForce",
+            "deliver": "2021-09-17T09:00",
+            "logo": "parcel-force",
+            "today": false,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 28,
+                "carrierName": "ParcelForce",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588317",
+                "price": "£25.86",
+                "taxPrice": "£31.03",
+                "today": false,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "tomorrow"
+                },
+                "type": "no-printer",
+                "surcharges": "42",
+                "collectAndDeliveryBy": "Collected and delivered by ParcelForce"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2 days",
+        "items": [
+          {
+            "serviceKeys": "588325",
+            "title": "ParcelForce",
+            "deliver": "2021-09-20",
+            "logo": "parcel-force",
+            "today": false,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 28,
+                "carrierName": "ParcelForce",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588325",
+                "price": "£13.60",
+                "taxPrice": "£16.32",
+                "today": false,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "tomorrow"
+                },
+                "type": "no-printer",
+                "surcharges": "42",
+                "collectAndDeliveryBy": "Collected and delivered by ParcelForce"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "3+ days",
+        "items": [
+          {
+            "serviceKeys": "588314",
+            "title": "Hermes",
+            "deliver": "2021-09-20",
+            "logo": "hermes",
+            "today": false,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 11,
+                "carrierName": "Hermes",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588314",
+                "price": "£4.19",
+                "taxPrice": "£5.03",
+                "today": false,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "tomorrow"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by Hermes"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "dropOffDistance": [],
+    "shipmentCover": 0,
+    "coverCharge": 0
+  },
+  {
+    "id": "dropOff",
+    "icon": "shop",
+    "title": "Drop off",
+    "tabName": "AccessPoint",
+    "price": "£10.13",
+    "count": 7,
+    "isAnyTodayCollection": true,
+    "shipmentDate": "15-09-2021",
+    "availableCarriers": [
+      {
+        "id": 48,
+        "title": "UPS",
+        "img": "ups"
+      },
+      {
+        "id": 81,
+        "title": "DPD",
+        "img": "dpd2"
+      },
+      {
+        "id": 28,
+        "title": "ParcelForce",
+        "img": "parcel-force"
+      }
+    ],
+    "collectionDate": "15-09-2021",
+    "filterDate": null,
+    "postcode": true,
+    "map": true,
+    "collectionPostcode": "",
+    "content": [
+      {
+        "title": "Next day",
+        "items": [
+          {
+            "serviceKeys": "588307",
+            "title": "UPS",
+            "deliver": "2021-09-16",
+            "logo": "ups",
+            "today": false,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 48,
+                "carrierName": "UPS",
+                "isAccessPoint": true,
+                "serviceKey": "17939631",
+                "serialNo": "588307",
+                "price": "£10.13",
+                "taxPrice": "£12.16",
+                "today": false,
+                "drop": {
+                  "type": "drop by",
+                  "title": "Drop by",
+                  "text": "11am today"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by UPS"
+              }
+            ]
+          },
+          {
+            "serviceKeys": "588309",
+            "title": "DPD",
+            "deliver": "2021-09-17",
+            "logo": "dpd2",
+            "today": false,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 81,
+                "carrierName": "DPD",
+                "isAccessPoint": true,
+                "serviceKey": "17939631",
+                "serialNo": "588309",
+                "price": "£10.96",
+                "taxPrice": "£13.15",
+                "today": false,
+                "drop": {
+                  "type": "drop ",
+                  "title": "Drop ",
+                  "text": "anytime today"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by DPD"
+              }
+            ]
+          },
+          {
+            "serviceKeys": "588323",
+            "title": "ParcelForce",
+            "deliver": "2021-09-16",
+            "logo": "parcel-force",
+            "today": false,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 28,
+                "carrierName": "ParcelForce",
+                "isAccessPoint": true,
+                "serviceKey": "17939631",
+                "serialNo": "588323",
+                "price": "£13.06",
+                "taxPrice": "£15.67",
+                "today": false,
+                "drop": {
+                  "type": "drop by",
+                  "title": "Drop by",
+                  "text": "11am today"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by ParcelForce"
+              }
+            ]
+          },
+          {
+            "serviceKeys": "588322",
+            "title": "ParcelForce",
+            "deliver": "2021-09-16T12:00",
+            "logo": "parcel-force",
+            "today": false,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 28,
+                "carrierName": "ParcelForce",
+                "isAccessPoint": true,
+                "serviceKey": "17939631",
+                "serialNo": "588322",
+                "price": "£13.49",
+                "taxPrice": "£16.19",
+                "today": false,
+                "drop": {
+                  "type": "drop by",
+                  "title": "Drop by",
+                  "text": "11am today"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by ParcelForce"
+              }
+            ]
+          },
+          {
+            "serviceKeys": "588319",
+            "title": "ParcelForce",
+            "deliver": "2021-09-16T10:00",
+            "logo": "parcel-force",
+            "today": false,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 28,
+                "carrierName": "ParcelForce",
+                "isAccessPoint": true,
+                "serviceKey": "17939631",
+                "serialNo": "588319",
+                "price": "£17.86",
+                "taxPrice": "£21.43",
+                "today": false,
+                "drop": {
+                  "type": "drop by",
+                  "title": "Drop by",
+                  "text": "11am today"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by ParcelForce"
+              }
+            ]
+          },
+          {
+            "serviceKeys": "588318",
+            "title": "ParcelForce",
+            "deliver": "2021-09-16T09:00",
+            "logo": "parcel-force",
+            "today": false,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 28,
+                "carrierName": "ParcelForce",
+                "isAccessPoint": true,
+                "serviceKey": "17939631",
+                "serialNo": "588318",
+                "price": "£24.26",
+                "taxPrice": "£29.11",
+                "today": false,
+                "drop": {
+                  "type": "drop by",
+                  "title": "Drop by",
+                  "text": "11am today"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by ParcelForce"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2 days",
+        "items": [
+          {
+            "serviceKeys": "588326",
+            "title": "ParcelForce",
+            "deliver": "2021-09-17",
+            "logo": "parcel-force",
+            "today": false,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 28,
+                "carrierName": "ParcelForce",
+                "isAccessPoint": true,
+                "serviceKey": "17939631",
+                "serialNo": "588326",
+                "price": "£12.00",
+                "taxPrice": "£14.40",
+                "today": false,
+                "drop": {
+                  "type": "drop by",
+                  "title": "Drop by",
+                  "text": "11am today"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by ParcelForce"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "dropOffDistance": [],
+    "shipmentCover": 0,
+    "coverCharge": 0
+  },
+  {
+    "id": "fastest",
+    "icon": "car",
+    "title": "Fastest",
+    "tabName": "Fastest",
+    "price": "£10.13",
+    "count": 13,
+    "isAnyTodayCollection": true,
+    "shipmentDate": "15-09-2021",
+    "availableCarriers": [
+      {
+        "id": 48,
+        "title": "UPS",
+        "img": "ups"
+      },
+      {
+        "id": 28,
+        "title": "ParcelForce",
+        "img": "parcel-force"
+      },
+      {
+        "id": 25,
+        "title": "TNT",
+        "img": "tnt-operated"
+      }
+    ],
+    "collectionDate": "15-09-2021",
+    "filterDate": true,
+    "postcode": null,
+    "map": null,
+    "collectionPostcode": "",
+    "content": [
+      {
+        "title": "End of day",
+        "items": [
+          {
+            "serviceKeys": "588307~588332",
+            "title": "UPS",
+            "deliver": "2021-09-16",
+            "logo": "ups",
+            "today": false,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 48,
+                "carrierName": "UPS",
+                "isAccessPoint": true,
+                "serviceKey": "17939631",
+                "serialNo": "588307",
+                "price": "£10.13",
+                "taxPrice": "£12.16",
+                "today": false,
+                "drop": {
+                  "type": "drop by",
+                  "title": "Drop by",
+                  "text": "11am today"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by UPS"
+              },
+              {
+                "carrierId": 48,
+                "carrierName": "UPS",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588332",
+                "price": "£13.07",
+                "taxPrice": "£15.68",
+                "today": true,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "today"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by UPS"
+              }
+            ]
+          },
+          {
+            "serviceKeys": "588323",
+            "title": "ParcelForce",
+            "deliver": "2021-09-16",
+            "logo": "parcel-force",
+            "today": false,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 28,
+                "carrierName": "ParcelForce",
+                "isAccessPoint": true,
+                "serviceKey": "17939631",
+                "serialNo": "588323",
+                "price": "£13.06",
+                "taxPrice": "£15.67",
+                "today": false,
+                "drop": {
+                  "type": "drop by",
+                  "title": "Drop by",
+                  "text": "11am today"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by ParcelForce"
+              }
+            ]
+          },
+          {
+            "serviceKeys": "588313",
+            "title": "TNT",
+            "deliver": "2021-09-16",
+            "logo": "tnt-operated",
+            "today": false,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 25,
+                "carrierName": "TNT",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588313",
+                "price": "£21.92",
+                "taxPrice": "£26.30",
+                "today": true,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "today"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by TNT"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Pre 12 delivery",
+        "items": [
+          {
+            "serviceKeys": "588322",
+            "title": "ParcelForce",
+            "deliver": "2021-09-16T12:00",
+            "logo": "parcel-force",
+            "today": false,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 28,
+                "carrierName": "ParcelForce",
+                "isAccessPoint": true,
+                "serviceKey": "17939631",
+                "serialNo": "588322",
+                "price": "£13.49",
+                "taxPrice": "£16.19",
+                "today": false,
+                "drop": {
+                  "type": "drop by",
+                  "title": "Drop by",
+                  "text": "11am today"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by ParcelForce"
+              }
+            ]
+          },
+          {
+            "serviceKeys": "588319",
+            "title": "ParcelForce",
+            "deliver": "2021-09-16T10:00",
+            "logo": "parcel-force",
+            "today": false,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 28,
+                "carrierName": "ParcelForce",
+                "isAccessPoint": true,
+                "serviceKey": "17939631",
+                "serialNo": "588319",
+                "price": "£17.86",
+                "taxPrice": "£21.43",
+                "today": false,
+                "drop": {
+                  "type": "drop by",
+                  "title": "Drop by",
+                  "text": "11am today"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by ParcelForce"
+              }
+            ]
+          },
+          {
+            "serviceKeys": "588331",
+            "title": "UPS",
+            "deliver": "2021-09-16T12:00",
+            "logo": "ups",
+            "today": true,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 48,
+                "carrierName": "UPS",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588331",
+                "price": "£20.83",
+                "taxPrice": "£25.00",
+                "today": true,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "today"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by UPS"
+              }
+            ]
+          },
+          {
+            "serviceKeys": "588330",
+            "title": "UPS",
+            "deliver": "2021-09-16T10:30",
+            "logo": "ups",
+            "today": true,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 48,
+                "carrierName": "UPS",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588330",
+                "price": "£21.58",
+                "taxPrice": "£25.90",
+                "today": true,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "today"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by UPS"
+              }
+            ]
+          },
+          {
+            "serviceKeys": "588312",
+            "title": "TNT",
+            "deliver": "2021-09-16T12:00",
+            "logo": "tnt-operated",
+            "today": false,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 25,
+                "carrierName": "TNT",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588312",
+                "price": "£38.08",
+                "taxPrice": "£45.70",
+                "today": true,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "today"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by TNT"
+              }
+            ]
+          },
+          {
+            "serviceKeys": "588311",
+            "title": "TNT",
+            "deliver": "2021-09-16T10:00",
+            "logo": "tnt-operated",
+            "today": false,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 25,
+                "carrierName": "TNT",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588311",
+                "price": "£50.50",
+                "taxPrice": "£60.60",
+                "today": true,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "today"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by TNT"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Pre 9 delivery",
+        "items": [
+          {
+            "serviceKeys": "588318",
+            "title": "ParcelForce",
+            "deliver": "2021-09-16T09:00",
+            "logo": "parcel-force",
+            "today": false,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 28,
+                "carrierName": "ParcelForce",
+                "isAccessPoint": true,
+                "serviceKey": "17939631",
+                "serialNo": "588318",
+                "price": "£24.26",
+                "taxPrice": "£29.11",
+                "today": false,
+                "drop": {
+                  "type": "drop by",
+                  "title": "Drop by",
+                  "text": "11am today"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by ParcelForce"
+              }
+            ]
+          },
+          {
+            "serviceKeys": "588310",
+            "title": "TNT",
+            "deliver": "2021-09-16T09:00",
+            "logo": "tnt-operated",
+            "today": false,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 25,
+                "carrierName": "TNT",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588310",
+                "price": "£52.26",
+                "taxPrice": "£62.71",
+                "today": true,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "today"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by TNT"
+              }
+            ]
+          },
+          {
+            "serviceKeys": "588329",
+            "title": "UPS",
+            "deliver": "2021-09-16T09:00",
+            "logo": "ups",
+            "today": true,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 48,
+                "carrierName": "UPS",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588329",
+                "price": "£67.01",
+                "taxPrice": "£80.41",
+                "today": true,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "today"
+                },
+                "type": "printer",
+                "surcharges": "",
+                "collectAndDeliveryBy": "Collected and delivered by UPS"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "dropOffDistance": [],
+    "shipmentCover": 0,
+    "coverCharge": 0
+  },
+  {
+    "id": "noPrinter",
+    "icon": "shop",
+    "title": "No Printer",
+    "tabName": "PNR",
+    "price": "£13.6",
+    "count": 9,
+    "isAnyTodayCollection": true,
+    "shipmentDate": "15-09-2021",
+    "availableCarriers": [
+      {
+        "id": 48,
+        "title": "UPS",
+        "img": "ups"
+      },
+      {
+        "id": 28,
+        "title": "ParcelForce",
+        "img": "parcel-force"
+      }
+    ],
+    "collectionDate": "15-09-2021",
+    "filterDate": true,
+    "postcode": null,
+    "map": null,
+    "collectionPostcode": "",
+    "content": [
+      {
+        "title": "Next day",
+        "items": [
+          {
+            "serviceKeys": "588308",
+            "title": "UPS",
+            "deliver": "2021-09-17",
+            "logo": "ups",
+            "today": false,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 48,
+                "carrierName": "UPS",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588308",
+                "price": "£14.14",
+                "taxPrice": "£16.97",
+                "today": false,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "tomorrow"
+                },
+                "type": "no-printer",
+                "surcharges": "42",
+                "collectAndDeliveryBy": "Collected and delivered by UPS"
+              }
+            ]
+          },
+          {
+            "serviceKeys": "588324",
+            "title": "ParcelForce",
+            "deliver": "2021-09-17",
+            "logo": "parcel-force",
+            "today": false,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 28,
+                "carrierName": "ParcelForce",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588324",
+                "price": "£14.66",
+                "taxPrice": "£17.59",
+                "today": false,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "tomorrow"
+                },
+                "type": "no-printer",
+                "surcharges": "42",
+                "collectAndDeliveryBy": "Collected and delivered by ParcelForce"
+              }
+            ]
+          },
+          {
+            "serviceKeys": "588321",
+            "title": "ParcelForce",
+            "deliver": "2021-09-17T12:00",
+            "logo": "parcel-force",
+            "today": false,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 28,
+                "carrierName": "ParcelForce",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588321",
+                "price": "£15.09",
+                "taxPrice": "£18.11",
+                "today": false,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "tomorrow"
+                },
+                "type": "no-printer",
+                "surcharges": "42",
+                "collectAndDeliveryBy": "Collected and delivered by ParcelForce"
+              }
+            ]
+          },
+          {
+            "serviceKeys": "588306",
+            "title": "UPS",
+            "deliver": "2021-09-17T12:00",
+            "logo": "ups",
+            "today": false,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 48,
+                "carrierName": "UPS",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588306",
+                "price": "£21.90",
+                "taxPrice": "£26.28",
+                "today": false,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "tomorrow"
+                },
+                "type": "no-printer",
+                "surcharges": "42",
+                "collectAndDeliveryBy": "Collected and delivered by UPS"
+              }
+            ]
+          },
+          {
+            "serviceKeys": "588305",
+            "title": "UPS",
+            "deliver": "2021-09-17T10:30",
+            "logo": "ups",
+            "today": false,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 48,
+                "carrierName": "UPS",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588305",
+                "price": "£22.65",
+                "taxPrice": "£27.18",
+                "today": false,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "tomorrow"
+                },
+                "type": "no-printer",
+                "surcharges": "42",
+                "collectAndDeliveryBy": "Collected and delivered by UPS"
+              }
+            ]
+          },
+          {
+            "serviceKeys": "588320",
+            "title": "ParcelForce",
+            "deliver": "2021-09-17T10:00",
+            "logo": "parcel-force",
+            "today": false,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 28,
+                "carrierName": "ParcelForce",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588320",
+                "price": "£19.46",
+                "taxPrice": "£23.35",
+                "today": false,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "tomorrow"
+                },
+                "type": "no-printer",
+                "surcharges": "42",
+                "collectAndDeliveryBy": "Collected and delivered by ParcelForce"
+              }
+            ]
+          },
+          {
+            "serviceKeys": "588317",
+            "title": "ParcelForce",
+            "deliver": "2021-09-17T09:00",
+            "logo": "parcel-force",
+            "today": false,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 28,
+                "carrierName": "ParcelForce",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588317",
+                "price": "£25.86",
+                "taxPrice": "£31.03",
+                "today": false,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "tomorrow"
+                },
+                "type": "no-printer",
+                "surcharges": "42",
+                "collectAndDeliveryBy": "Collected and delivered by ParcelForce"
+              }
+            ]
+          },
+          {
+            "serviceKeys": "588304",
+            "title": "UPS",
+            "deliver": "2021-09-17T09:00",
+            "logo": "ups",
+            "today": false,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 48,
+                "carrierName": "UPS",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588304",
+                "price": "£68.08",
+                "taxPrice": "£81.70",
+                "today": false,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "tomorrow"
+                },
+                "type": "no-printer",
+                "surcharges": "42",
+                "collectAndDeliveryBy": "Collected and delivered by UPS"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "2 days",
+        "items": [
+          {
+            "serviceKeys": "588325",
+            "title": "ParcelForce",
+            "deliver": "2021-09-20",
+            "logo": "parcel-force",
+            "today": false,
+            "isNorsk": false,
+            "item": [
+              {
+                "carrierId": 28,
+                "carrierName": "ParcelForce",
+                "isAccessPoint": false,
+                "serviceKey": "17939631",
+                "serialNo": "588325",
+                "price": "£13.60",
+                "taxPrice": "£16.32",
+                "today": false,
+                "drop": {
+                  "type": "collection",
+                  "title": "Collection",
+                  "text": "tomorrow"
+                },
+                "type": "no-printer",
+                "surcharges": "42",
+                "collectAndDeliveryBy": "Collected and delivered by ParcelForce"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "dropOffDistance": [],
+    "shipmentCover": 0,
+    "coverCharge": 0
+  }
+]
